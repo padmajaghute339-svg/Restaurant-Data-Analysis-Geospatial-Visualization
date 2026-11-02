@@ -76,7 +76,7 @@ restaurant-data-analysis-geospatial/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/restaurant-data-analysis-geospatial.git
+git clone https://github.com/padmajaghute339-svg/restaurant-data-analysis-geospatial.git
 
 2. Open the project folder
 
