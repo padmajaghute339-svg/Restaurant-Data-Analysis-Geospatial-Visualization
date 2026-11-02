@@ -1,9 +1,8 @@
 📊 Cognifyz Technologies – Data Science Internship
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
-"NumPy" (https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
-"Status" (https://img.shields.io/badge/Status-In%20Progress-orange)
+"Python" 
+"Pandas" 
+"NumPy" 
 
 📌 About the Internship
 
