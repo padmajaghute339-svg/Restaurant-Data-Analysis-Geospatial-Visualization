@@ -1,111 +1,158 @@
-🍽️ Restaurant Data Analysis & Geospatial Visualization
+📊 Cognifyz Technologies – Data Science Internship
 
-Cognifyz Technologies – Data Analysis Internship | Level 1
+"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
+"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+"NumPy" (https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+"Status" (https://img.shields.io/badge/Status-In%20Progress-orange)
 
-📌 Project Overview
+📌 About the Internship
 
-This project focuses on exploring, analyzing, and visualizing restaurant data using Python. It involves data preprocessing, exploratory data analysis (EDA), descriptive statistics, and geospatial analysis to discover meaningful insights about restaurant ratings, cuisines, locations, and customer preferences.
+This repository contains my tasks, projects, and practical learnings completed during my Data Science Internship at Cognifyz Technologies.
 
-🎯 Project Objectives
+The internship focuses on developing practical data science skills through real-world datasets, data preprocessing, exploratory data analysis, statistical analysis, visualization, and machine learning concepts.
 
-- Explore and understand the restaurant dataset.
-- Identify and handle missing values.
-- Analyze restaurant rating distributions.
-- Calculate statistical measures.
-- Identify popular cuisines and cities.
-- Visualize restaurant locations using geographical coordinates.
-- Explore relationships between restaurant locations and ratings.
+The tasks are organized into three levels, covering different aspects of the data science workflow.
 
-📊 Tasks Performed
+🎯 Internship Objectives
+
+- Understand and analyze real-world datasets.
+- Perform data cleaning and preprocessing.
+- Conduct Exploratory Data Analysis (EDA).
+- Apply statistical techniques to extract insights.
+- Create meaningful data visualizations.
+- Perform geospatial data analysis.
+- Develop practical problem-solving and analytical skills.
+- Gain hands-on experience with Python data science libraries.
+
+📚 Tasks and Projects
+
+🔹 Level 1 – Data Exploration and Analysis
 
 Task 1: Data Exploration and Preprocessing
 
-- Identified dataset dimensions (rows and columns).
-- Checked missing values in each column.
-- Handled missing cuisine values.
-- Checked and converted data types.
-- Analyzed the distribution of Aggregate Rating.
-- Identified rating class imbalance.
+- Explore dataset dimensions (rows and columns).
+- Identify and handle missing values.
+- Perform data type conversions.
+- Analyze target variable distribution and class imbalance.
 
 Task 2: Descriptive Analysis
 
-- Calculated mean, median, and standard deviation.
-- Analyzed categorical variables.
-- Identified the most popular cuisines.
-- Found cities with the highest number of restaurants.
+- Calculate mean, median, standard deviation, and other statistical measures.
+- Analyze categorical variables.
+- Identify the most popular cuisines and cities.
 
 Task 3: Geospatial Analysis
 
-- Visualized restaurant locations using latitude and longitude.
-- Analyzed restaurant distribution across cities and countries.
-- Examined correlations between geographical coordinates and restaurant ratings.
-- Created an interactive restaurant location map.
+- Visualize restaurant locations using latitude and longitude.
+- Analyze restaurant distribution across cities and countries.
+- Explore the relationship between geographical location and restaurant ratings.
 
-🔍 Key Findings
+Dataset: Restaurant Dataset
 
-- Total restaurants analyzed: 9,551
+Key Findings:
+
+- Total records analyzed: 9,551
 - Total columns: 21
 - Missing values: 9
 - Most represented city: New Delhi
 - Most popular cuisine: North Indian
-- Average aggregate rating: 2.67
-- Restaurants marked as Not Rated: 2,148
 
-🛠️ Technologies Used
+🔹 Level 2 – Data Analysis and Visualization
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Folium
-- VS Code
+This section will contain the Level 2 internship tasks, including their objectives, implementation, visualizations, and findings.
 
-📁 Project Structure
+Tasks: To be updated as completed.
 
-restaurant-data-analysis-geospatial/
+🔹 Level 3 – Advanced Data Science Tasks
+
+This section will contain advanced internship tasks, their implementation, analytical methods, results, and conclusions.
+
+Tasks: To be updated as completed.
+
+🛠️ Technologies and Tools
+
+Technology| Purpose
+Python| Programming and data analysis
+Pandas| Data manipulation and cleaning
+NumPy| Numerical computations
+Matplotlib| Data visualization
+Seaborn| Statistical visualization
+Folium| Geospatial visualization
+Jupyter Notebook| Interactive analysis
+VS Code| Development environment
+Git & GitHub| Version control and project management
+
+📂 Repository Structure
+
+cognifyz-data-science-internship/
 │
-├── Dataset .csv
-├── cleaned_dataset.csv
-├── cognifyz_analysis.py
-├── README.md
+├── Level-1/
+│   ├── Dataset.csv
+│   ├── cognifyz_analysis.py
+│   ├── cleaned_dataset.csv
+│   ├── restaurant_locations_map.html
+│   └── Analysis_Report.pdf
 │
-├── Cognifyz_Level_1_Analysis_Report.pdf
-└── restaurant_locations_map.html
+├── Level-2/
+│   └── Tasks and Projects
+│
+├── Level-3/
+│   └── Tasks and Projects
+│
+└── README.md
 
-⚙️ Installation and Setup
+⚙️ Installation and Execution
 
 1. Clone the repository
 
-git clone https://github.com/padmajaghute339-svg/restaurant-data-analysis-geospatial.git
+git clone https://github.com/YOUR-USERNAME/cognifyz-data-science-internship.git
 
-2. Open the project folder
+2. Navigate to the project directory
 
-cd restaurant-data-analysis-geospatial
+cd cognifyz-data-science-internship
 
-3. Install dependencies
+3. Install required libraries
 
-pip install pandas numpy matplotlib folium
+pip install pandas numpy matplotlib seaborn folium
 
 4. Run the Python file
 
-python cognifyz_analysis.py
+python Level-1/cognifyz_analysis.py
 
-📈 Project Outcomes
+📈 Skills Developed
 
-This project helped develop practical skills in data cleaning, exploratory data analysis, statistical interpretation, data visualization, and geospatial analysis.
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Geospatial Analysis
+- Python Programming
+- Analytical Thinking
+- Data Interpretation
+- Problem Solving
 
-👩‍💻 Author
+🎓 Key Learnings
+
+Through this internship, I am gaining practical experience in working with real-world datasets, identifying patterns, extracting meaningful insights, and presenting analytical results through visualizations.
+
+👩‍💻 About Me
 
 Padmaja Ghute
 
-GitHub: "Your GitHub Profile" (https://github.com/padmajaghute339-svg)
+Computer Science Engineering | Data Science
 
-🏢 Internship
+Interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analytics.
+
+GitHub: https://github.com/YOUR-USERNAME
+
+🏢 Internship Organization
 
 Cognifyz Technologies
 
-Data Analysis Internship – Level 1
+Where Data Meets Intelligence.
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+⭐ If you find this repository useful, feel free to explore and share your feedback!
+
+This repository is maintained as part of my Data Science Internship learning journey.
