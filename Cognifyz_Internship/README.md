@@ -1,4 +1,4 @@
-📊 Cognifyz Technologies – Data Science Internship
+📊 *Cognifyz Technologies – Data Science Internship*
 
 "Python" 
 "Pandas" 
