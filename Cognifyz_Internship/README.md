@@ -104,7 +104,7 @@ cognifyz-data-science-internship/
 
 1. Clone the repository
 
-git clone https://github.com/padmajaghute339-svg/cognifyz-data-science-internship.git
+git clone https://github.com/padmajaghute339-svg/Restaurant-Data-Analysis-Geospatial-Visualization.git
 
 2. Navigate to the project directory
 
