@@ -104,7 +104,7 @@ cognifyz-data-science-internship/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/cognifyz-data-science-internship.git
+git clone https://github.com/padmajaghute339-svg/cognifyz-data-science-internship.git
 
 2. Navigate to the project directory
 
@@ -142,7 +142,7 @@ Computer Science Engineering | Data Science
 
 Interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analytics.
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/padmajaghute339-svg
 
 🏢 Internship Organization
 
